@@ -1,0 +1,4 @@
+name = "generic-os"
+description = "GenericOS packages"
+version = "2026.10"
+stars = ["fastfish"]

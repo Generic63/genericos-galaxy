@@ -1,0 +1,4 @@
+name = "fastfish"
+version = "0.1"
+description = "System info fetch for GenericOS"
+source = "packages/fastfish.tar.gz"
